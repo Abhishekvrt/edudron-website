@@ -1,21 +1,20 @@
 import React from "react";
-import '../PageCss/SearchBar.css';
-import 'bootstrap/dist/css/bootstrap.min.css'
+import "../PageCss/SearchBar.css";
+import "bootstrap/dist/css/bootstrap.min.css";
 
 const SearchBar = () => {
   return (
-   <div className="SearchBar">
-    <div>
-      <div>
-        
-      </div>
+    <div classNameName="SearchBarWrapper">
+       <div className='mainButton'>
+
+        <button>
+          <div>
+            
+          </div>
+        </button>
+       </div>
     </div>
-   
-       
-       
-   </div>
-    
   );
-}
+};
 
 export default SearchBar;

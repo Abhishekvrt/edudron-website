@@ -1,3 +1,25 @@
-.Uppertitle > h1{
-   content: '\e8b9';
+.UpperTitle {
+  padding-top: 45px;
 }
+
+.UpperTitle > h1 {
+   text-align: center;
+   text-shadow: 20px;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+ }
+
+.UpperTitle > h3 {
+   text-align: center;
+   font-weight: 300px;
+   font-family: Georgia, 'Times New Roman', Times, serif;
+   font-size: 17px;
+   margin: auto;
+ }
+
+ 
+ 
+  
+
+
+ 
+  

@@ -8,16 +8,19 @@ import SearchBar from './homepage/SearchBar'
 function Home() {
   return (
     <>
-    <div className="Home">
+     
+     <div className="Home">
       <UpperTitle/>
       <SearchBar/>
-    </div>
+      
+     </div>
     
-    <div className='abhi'> 
+     <div className='abhi'> 
         This is abhishek
-    </div>
-    
+     </div>
+
     </>
+     
   )
 }
 
